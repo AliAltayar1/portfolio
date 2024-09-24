@@ -131,6 +131,6 @@ export const socialMedia = [
   {
     id: 2,
     img: "/link.svg",
-    link: "https://www.linkedin.com/in/ali-altayar-47a821285",
+    link: "https://www.linkedin.com/in/ali-altayar1/",
   },
 ];
