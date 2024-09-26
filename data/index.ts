@@ -49,7 +49,7 @@ export const gridItems = [
 
   {
     id: 5,
-    title: "I'm currently a trainee at Mad Solution.",
+    title: "I was a trainee at Mad Solution.",
     description: "The Inside Scoop",
     className: "md:col-span-3 md:row-span-2",
     imgClassName: "filter brightness-60 absolute right-0 bottom-0 md:w-96 w-60",
