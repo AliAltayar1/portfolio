@@ -71,6 +71,22 @@ export const gridItems = [
 
 export const projects = [
   {
+    id: 5,
+    title: "Accounting and stock management system",
+    des: "An easy-to-use accounting and inventory management system built for small to medium businesses. This project helps shops and companies manage sales, purchases, inventory, suppliers, customers, and financial records in one place.",
+    img: "/p5.png",
+    iconLists: ["/next.svg", "/tailwindcss-icon.svg", "/supabase-icon.svg"],
+    link: "https://arabic-accounting-system.vercel.app/",
+  },
+  {
+    id: 6,
+    title: "Coffee Shop Website",
+    des: "Coffee Shop Website – A responsive website designed for a modern coffee shop. The platform showcases coffee products with detailed descriptions and images, includes a search and filtering system to help users find their preferred drinks or items easily, and provides dedicated pages for shop information, contact form, and location with map integration. The site emphasizes user-friendly navigation, clean UI, and smooth performance across devices.",
+    img: "/p6.png",
+    iconLists: ["/next.svg", "/TypeScript.svg", "/tailwindcss-icon.svg"],
+    link: "https://coffee-shop-portfolio-nine.vercel.app/",
+  },
+  {
     id: 1,
     title: "Online Plant Shop",
     des: "Explore the wonders of our plant shop, featuring an advanced authentication system, dark mode, multilingual support, and more!.",
